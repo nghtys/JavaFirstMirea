@@ -1,12 +1,12 @@
 package ru.mirea.task2.zad1;
 
-public class author {
+public class Author {
 
     private String name;
     private String email;
     private String gender;
 
-    public author(String name, String email, String gender) {
+    public Author(String name, String email, String gender) {
         this.name = name;
         this.email = email;
         this.gender = gender;

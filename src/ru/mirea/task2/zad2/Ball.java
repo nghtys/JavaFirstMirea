@@ -1,15 +1,15 @@
 package ru.mirea.task2.zad2;
 
-public class ball {
+public class Ball {
     private double x = 0.0;
     private double y = 0.0;
 
-    public ball(double x, double y) {
+    public Ball(double x, double y) {
         this.x = x;
         this.y = y;
     }
 
-    public ball() {
+    public Ball() {
     }
 
     public double getX() {
